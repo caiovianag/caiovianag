@@ -1,6 +1,5 @@
 ### Olá Eu sou o Caio Viana
 
-- 🔭 Hoje trabalho com programação web
 - 🌱 Estudando ciência da computação
 - 📫 Contate-me no email: caioglaucogv@hotmail.com
 
